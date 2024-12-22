@@ -1,5 +1,5 @@
 # firsttrialweb
-working together with my brother
-Website development
-Author1-Kami Dorje Sherpa
+Website Development 
+<br>
+Author1-Kami Dorje Sherpa <br>
 Author2-Lakpa Chettar Sherpa
